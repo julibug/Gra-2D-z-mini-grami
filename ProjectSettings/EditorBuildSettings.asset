@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Game/Scenes/MainMenu.unity
+    guid: d0edb78179cd0b84fa4b299c267d5b38
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Basement.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Main Game/Scenes/FirstFloor.unity
+    guid: 3a6be0db67b17894983350defc12a581
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Kitchen.unity
+    guid: 2d4d31d97657b884b93fa7a03dce187a
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Attic.unity
+    guid: 5e985abaee19f34479dfb979ee7e50f4
+  - enabled: 1
+    path: Assets/Main Game/Scenes/LivingRoom.unity
+    guid: 0965acd818fd8fb489f633aaa40743f6
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Garden.unity
+    guid: ed33c9b9f949f32438cd5ad70f9ee122
+  - enabled: 1
+    path: Assets/Main Game/Scenes/SecondFloor.unity
+    guid: ddf4091cf74bb694383186e60e727747
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Underground.unity
+    guid: 52a547a8459e5164b95c1ad8b8c1ea1a
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Bathroom.unity
+    guid: e624677b1b1c8ac47976e1f31b9bf6ef
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Bedroom.unity
+    guid: 747fb18a7434cb1468f25abb3935c6d7
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Winery.unity
+    guid: fbc01f5d85fae97489a743fad035d2cb
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Graveyard.unity
+    guid: eb164ea5204d0f54da09961fb14a9f05
+  - enabled: 1
+    path: Assets/Main Game/Scenes/LostMenu.unity
+    guid: 9f46461acaa76ed47afe0f66dfd0276d
+  - enabled: 1
+    path: Assets/Main Game/Scenes/WinMenu.unity
+    guid: d92461acd5b7b0c46a0431c447964692
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Connect Stars 1.unity
+    guid: 6946126b2f154b54dbc64fc83e734201
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Connect Stars 2.unity
+    guid: 2b15ab91633dab746be9d929ff245077
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Introduction_CS.unity
+    guid: 8b97b050c3104254b8b3646d3488cc72
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Introduction_M.unity
+    guid: b5fa7c15389e02a41815c07cd6590d03
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Introduction_P.unity
+    guid: 3f5c89f8cc778a644a9bcc29d44c9572
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Connect Stars.unity
+    guid: 1e1bb294fbbaedb4d890273564baf402
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Introduction_SS.unity
+    guid: bb47c05e22e8b3e41a44b670d1159e23
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Match 3.unity
+    guid: 7d261dcee8a026547b6ee54d8f616d95
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/MG_Options.unity
+    guid: 0ed53a91637f9a64a98cb1d7e6b091e9
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Puzzle.unity
+    guid: b6d952d152c8c074e987482a0491017c
+  - enabled: 1
+    path: Assets/Mini Games/Scenes/Space Shooter.unity
+    guid: 1e35f217852d90f4ca1734274a25f511
+  m_configObjects: {}
